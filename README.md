@@ -1,5 +1,6 @@
 # slide_tab_center
 移动端轮播  导航+内容页的轮播，选中的导航居中（最边的除外）<br/>
+效果预览：https://benchenchuang.github.io/slide_tab_center/swiper.html （浏览器调到移动模式）<br/>
 <br/>
 > 1、内容部分滑动：<br/>
 导航会随着内容部分的滑动，高亮对应的导航内容，并把高亮的导航居中（导航1/2部分 导航倒数1/2部分不动，否则导航就有空缺部分，比较丑）<br/>

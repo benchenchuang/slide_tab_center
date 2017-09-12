@@ -135,7 +135,7 @@
 
 
         function slideShow(tabIndex,active){
-            slide = mySwiper.slides[tabIndex]
+            slide = swiper.slides[tabIndex]
             slideLeft = slide.offsetLeft
             slideWidth = slide.clientWidth
             slideCenter = slideLeft + slideWidth / 2
